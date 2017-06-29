@@ -1,1 +1,7 @@
-# chogydan.github.io
+# Welcome
+
+# Links
+* [LinkedIn](linkedin.com/in/daniel-hollocher-974815122)
+* [Github](https://github.com/ChogyDan)
+* [Memorize App](https://chogydan.github.io/demo/index.html)
+* [Launchpad]()
